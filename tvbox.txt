@@ -1,0 +1,194 @@
+{
+  "sites": [
+    {
+      "key": "baofen",
+      "name": "暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "feifan",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "modu",
+      "name": "魔都资源",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "tianya",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "360",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "maotai",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "douban",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙资源",
+      "type": 1,
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "jishu",
+      "name": "极速资源",
+      "type": 0,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "mozua",
+      "name": "魔爪资源",
+      "type": 0,
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    }
+  ]
+}
