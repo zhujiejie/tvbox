@@ -379,6 +379,63 @@
         "战争片",
         "爱情片"
       ]
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "Uku",
+      "name": "U酷资源",
+      "type": 1,
+      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
+    },
+    {
+      "key": "dianying",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "剧情片",
+        "动作片",
+        "战争片",
+        "爱情片"
+      ]
     }
   ]
 }
